@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Thura Hlaing Ko 👋
 
-<!--
-**Thura2021/Thura2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student at HAL Osaka, currently studying software development and IT infrastructure.
 
-Here are some ideas to get you started:
+I enjoy building practical systems and learning new technologies through hands-on projects.  
+Currently seeking opportunities as a Software Engineer, Programmer, or Infrastructure Engineer in Japan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- Java / Servlet / JSP
+- MariaDB / MySQL / SQL
+- HTML / CSS / JavaScript
+- Linux
+- Unity / C#
+- Git / GitHub
+
+## 🚀 Projects
+
+### StoreLink
+Inventory Management Web System developed based on my experience working in retail.
+
+**Technologies:** Java, Servlet, JSP, MariaDB
+
+Main features:
+- Inventory management
+- Product management
+- Database integration
+- Web-based interface
+
+### LiveForge
+An interactive Unity project designed for live-streaming environments.
+
+The project explores real-time character control, animations, camera effects, and interactive viewer-driven events.
+
+**Technologies:** Unity, C#
+
+## 🎓 Education
+
+**HAL Osaka**  
+Department of Information Processing / IT  
+Expected graduation: March 2027
+
+## 📚 Currently Learning
+
+- Java Web Development
+- Network & Server Infrastructure
+- Cloud Technologies
+- Software Engineering
+
+## 🎯 Career Goal
+
+My goal is to become an engineer who can build and support reliable systems while continuously improving my technical skills.
